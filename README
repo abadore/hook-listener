@@ -1,5 +1,1 @@
-First Test
-Second Test
-Third Test
-Fourth Test
-Fifth Test
+Simple util that parses a github post receive hook and will execute a git pull on a local directory and restart a service.
